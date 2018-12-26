@@ -6,8 +6,8 @@ engine recommends next problem to the user based on the user profile
 and user’s history.
 
 There are 4 different parts of this recommendation system described as below:
-1.  Recommender system through collaborative filtering. F
-    or each user, recommender system recommend the problem based on how
+1.  Recommender system through collaborative filtering. For
+    each user, recommender system recommend the problem based on how
     similar users solved the problem. For each user, user activity data is
     collected when the user visits the platform and based on the user
     activity data of similar users the problem will be recommended.
