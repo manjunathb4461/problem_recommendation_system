@@ -12,6 +12,8 @@ There are 4 different parts of this recommendation system as described below:
     collected when the user visits the platform and based on the user
     activity data of similar users the next problem will be recommended.
     
+    K-means algorithm used to overcome cold start problem
+    
 2.  Recommender system through content based filtering: For each user,
     recommender system will recommend the next problem based on the user profile
     and the user’s history. The next problem will be recommended based
